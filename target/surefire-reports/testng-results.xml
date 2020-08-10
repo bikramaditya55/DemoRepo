@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.qa.test.DemoTest" duration-ms="54" started-at="2020-07-10T17:03:40Z" finished-at="2020-07-10T17:03:41Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="54" started-at="2020-07-10T17:03:40Z" finished-at="2020-07-10T17:03:41Z">
+      <class name="com.qa.test.DemoTest">
+        <test-method status="PASS" signature="div()[pri:0, instance:com.qa.test.DemoTest@17c68925]" name="div" duration-ms="16" started-at="2020-07-10T22:33:40Z" finished-at="2020-07-10T22:33:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mult()[pri:0, instance:com.qa.test.DemoTest@17c68925]" name="mult" duration-ms="0" started-at="2020-07-10T22:33:41Z" finished-at="2020-07-10T22:33:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mult -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.qa.test.DemoTest@17c68925]" name="sub" duration-ms="1" started-at="2020-07-10T22:33:41Z" finished-at="2020-07-10T22:33:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.qa.test.DemoTest@17c68925]" name="sum" duration-ms="3" started-at="2020-07-10T22:33:41Z" finished-at="2020-07-10T22:33:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.qa.test.DemoTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.qa.test.DemoTest -->
+</testng-results>
