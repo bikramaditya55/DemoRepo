@@ -5,6 +5,10 @@ import org.testng.annotations.Test;
 
 public class DemoTest {
 	
+		public void executeloginpage(){
+			System.out.println("execute loginpage");
+		}
+	
 	@Test
 	public void sum()
 	{
